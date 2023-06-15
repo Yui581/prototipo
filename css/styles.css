@@ -199,6 +199,7 @@ a:hover {
 	transition: all 0.2s;
 }
 
+
 .btn-solid-lg:hover {
 	background-color: transparent;
 	color: #7dc22b; /* needs to stay here because of the color property of a tag */
